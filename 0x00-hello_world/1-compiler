@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc -c $cfile -o "echo $CFILE | cut -d. -f" .o 
